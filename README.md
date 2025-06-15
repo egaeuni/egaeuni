@@ -1,7 +1,7 @@
 ## Introduction
 #### 덕성여자대학교 데이터사이언스학과 이가은
-📍 2024 멋쟁이사자처럼 11기 아기사자 (BE) <br>
-📍 2025 멋쟁이사자처럼 12기 운영진 (BE)<br><br>
+📍 2024 멋쟁이사자처럼 12기 아기사자 (BE) <br>
+📍 2025 멋쟁이사자처럼 13기 운영진 (BE)<br><br>
 
 ## Currently Studying
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">

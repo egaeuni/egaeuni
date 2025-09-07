@@ -1,9 +1,16 @@
-## Introduction
-#### 덕성여자대학교 데이터사이언스학과 이가은
-📍 2024 멋쟁이사자처럼 12기 아기사자 (BE) <br>
-📍 2025 멋쟁이사자처럼 13기 운영진 (BE)<br><br>
+## 📒 Introduction
+#### 덕성여자대학교 데이터사이언스학과 이가은 
 
-## Currently Studying
+<br>
+
+## 💭 Club
+
+-  🦁 2024 멋쟁이사자처럼 12기 아기사자 | **BE** <br>
+-  🦁 2025 멋쟁이사자처럼 13기 운영진 | **BE**<br>
+-  🌐 2025 UMC 9기 Spring Boot | **BE**<br><br>
+
+
+## 🌱 Currently Studying
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
@@ -13,7 +20,8 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <br><br>
 
-## Github
+
+## 💬 Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egaeuni)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=egaeuni)](https://github.com/anuraghazra/github-readme-stats)
 
